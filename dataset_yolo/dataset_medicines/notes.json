@@ -1,0 +1,205 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Acetaminophen, Aspirin and Caffeine"
+    },
+    {
+      "id": 1,
+      "name": "Alprazolam"
+    },
+    {
+      "id": 2,
+      "name": "Amitriptyline"
+    },
+    {
+      "id": 3,
+      "name": "Amitriptyline Hydrochloride"
+    },
+    {
+      "id": 4,
+      "name": "Amitriptyline Hydrochloride and Chlordiazepoxide"
+    },
+    {
+      "id": 5,
+      "name": "Amitriptyline Hydrochloride and Perphenazine"
+    },
+    {
+      "id": 6,
+      "name": "Amitriptyline and Chlordiazepoxide"
+    },
+    {
+      "id": 7,
+      "name": "Amitriptyline and Perphenazine"
+    },
+    {
+      "id": 8,
+      "name": "Amlodipine"
+    },
+    {
+      "id": 9,
+      "name": "Amlodipine Besylate"
+    },
+    {
+      "id": 10,
+      "name": "Amlodipine Besylate and Atorvastatin Calcium"
+    },
+    {
+      "id": 11,
+      "name": "Amlodipine and Atorvastatin"
+    },
+    {
+      "id": 12,
+      "name": "Amlodipine and Benazepril"
+    },
+    {
+      "id": 13,
+      "name": "Amlodipine and Benazepril hydrochloride"
+    },
+    {
+      "id": 14,
+      "name": "Amlodipine and Olmesartan medoxomil"
+    },
+    {
+      "id": 15,
+      "name": "Amlodipine and Valsartan"
+    },
+    {
+      "id": 16,
+      "name": "Amlodipine, Hydrochlorothiazide and Olmesartan medoxomil"
+    },
+    {
+      "id": 17,
+      "name": "Amlodipine, Hydrochlorothiazide and Valsartan"
+    },
+    {
+      "id": 18,
+      "name": "Aspirin"
+    },
+    {
+      "id": 19,
+      "name": "Aspirin, Butalbital, Caffeine and Codeine Phosphate"
+    },
+    {
+      "id": 20,
+      "name": "Atorvastatin"
+    },
+    {
+      "id": 21,
+      "name": "Diazepam"
+    },
+    {
+      "id": 22,
+      "name": "Dimenhydrinate"
+    },
+    {
+      "id": 23,
+      "name": "Esomeprazole"
+    },
+    {
+      "id": 24,
+      "name": "Esomeprazole Magnesium"
+    },
+    {
+      "id": 25,
+      "name": "Esomeprazole Magnesium Dihydrate"
+    },
+    {
+      "id": 26,
+      "name": "Esomeprazole Strontium"
+    },
+    {
+      "id": 27,
+      "name": "Glimepiride"
+    },
+    {
+      "id": 28,
+      "name": "Glimepiride and Pioglitazone"
+    },
+    {
+      "id": 29,
+      "name": "Glimepiride and Rosiglitazone"
+    },
+    {
+      "id": 30,
+      "name": "Glipizide and Metformin Hydrochloride"
+    },
+    {
+      "id": 31,
+      "name": "Glyburide and Metformin"
+    },
+    {
+      "id": 32,
+      "name": "Glyburide and Metformin Hydrochloride"
+    },
+    {
+      "id": 33,
+      "name": "Metformin"
+    },
+    {
+      "id": 34,
+      "name": "Metformin Hydrochloride"
+    },
+    {
+      "id": 35,
+      "name": "Metformin Hydrochloride and Saxagliptin"
+    },
+    {
+      "id": 36,
+      "name": "Metformin Hydrochloride and Sitagliptin"
+    },
+    {
+      "id": 37,
+      "name": "Omeprazole"
+    },
+    {
+      "id": 38,
+      "name": "Omeprazole and Sodium Bicarbonate"
+    },
+    {
+      "id": 39,
+      "name": "Pioglitazone and Metformin"
+    },
+    {
+      "id": 40,
+      "name": "Pioglitazone and Metformin Hydrochloride"
+    },
+    {
+      "id": 41,
+      "name": "Rosiglitazone and Metformin"
+    },
+    {
+      "id": 42,
+      "name": "Saxagliptin and Metformin"
+    },
+    {
+      "id": 43,
+      "name": "Saxagliptin and Metformin Hydrochloride"
+    },
+    {
+      "id": 44,
+      "name": "Sitagliptin and Metformin"
+    },
+    {
+      "id": 45,
+      "name": "Sitagliptin and Metformin Hydrochloride"
+    },
+    {
+      "id": 46,
+      "name": "Tramadol"
+    },
+    {
+      "id": 47,
+      "name": "Tramadol Hydrochloride"
+    },
+    {
+      "id": 48,
+      "name": "Tramadol Hydrochloride and  Acetaminophen"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

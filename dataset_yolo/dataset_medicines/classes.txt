@@ -1,0 +1,49 @@
+Acetaminophen, Aspirin and Caffeine
+Alprazolam
+Amitriptyline
+Amitriptyline Hydrochloride
+Amitriptyline Hydrochloride and Chlordiazepoxide
+Amitriptyline Hydrochloride and Perphenazine
+Amitriptyline and Chlordiazepoxide
+Amitriptyline and Perphenazine
+Amlodipine
+Amlodipine Besylate
+Amlodipine Besylate and Atorvastatin Calcium
+Amlodipine and Atorvastatin
+Amlodipine and Benazepril
+Amlodipine and Benazepril hydrochloride
+Amlodipine and Olmesartan medoxomil
+Amlodipine and Valsartan
+Amlodipine, Hydrochlorothiazide and Olmesartan medoxomil
+Amlodipine, Hydrochlorothiazide and Valsartan
+Aspirin
+Aspirin, Butalbital, Caffeine and Codeine Phosphate
+Atorvastatin
+Diazepam
+Dimenhydrinate
+Esomeprazole
+Esomeprazole Magnesium
+Esomeprazole Magnesium Dihydrate
+Esomeprazole Strontium
+Glimepiride
+Glimepiride and Pioglitazone
+Glimepiride and Rosiglitazone
+Glipizide and Metformin Hydrochloride
+Glyburide and Metformin
+Glyburide and Metformin Hydrochloride
+Metformin
+Metformin Hydrochloride
+Metformin Hydrochloride and Saxagliptin
+Metformin Hydrochloride and Sitagliptin
+Omeprazole
+Omeprazole and Sodium Bicarbonate
+Pioglitazone and Metformin
+Pioglitazone and Metformin Hydrochloride
+Rosiglitazone and Metformin
+Saxagliptin and Metformin
+Saxagliptin and Metformin Hydrochloride
+Sitagliptin and Metformin
+Sitagliptin and Metformin Hydrochloride
+Tramadol
+Tramadol Hydrochloride
+Tramadol Hydrochloride and Acetaminophen
